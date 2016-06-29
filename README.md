@@ -100,3 +100,10 @@ Solutions to problems on [hihocoder](http://hihocoder.com/hiho)
 |1|[树结构判定](http://hihocoder.com/problemset/problem/1322) |[1](solutions/1322)| 
 |2|[回文字符串](http://hihocoder.com/problemset/problem/1323) |[2](solutions/1323)| 
 |3|[希尔伯特曲线](http://hihocoder.com/problemset/problem/1324) |[3](solutions/1324)| 
+
+## [hihoCoder太阁最新面经算法竞赛6](http://hihocoder.com/contest/hihointerview11)
+| # | Title | Solution |
+|---|-------|----------|
+|1|[数组重排](http://hihocoder.com/contest/hihointerview11/problem/1) |[1](solutions/hiho0601)| 
+|2|[扩展二进制](http://hihocoder.com/contest/hihointerview11/problem/2) |[2](solutions/hiho0602)| 
+|3|[简单计算器](http://hihocoder.com/contest/hihointerview11/problem/3) |[3](solutions/hiho0603)| 
