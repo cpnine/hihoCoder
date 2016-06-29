@@ -70,7 +70,7 @@ Solutions to problems on [hihocoder](http://hihocoder.com/hiho)
 |58|[树结构判定](http://hihocoder.com/problemset/problem/1322) |[1322](solutions/1322)| 
 |59|[回文字符串](http://hihocoder.com/problemset/problem/1323) |[1323](solutions/1323)| 
 |60|[希尔伯特曲线](http://hihocoder.com/problemset/problem/1324) |[1324](solutions/1324)| 
-|1117|[战争年代](http://hihocoder.com/problemset/problem/1117)|[1117](solution/1234)|
+|61|[战争年代](http://hihocoder.com/problemset/problem/1117)|[1117](solutions/1117)|
 
 ## [hihoCoder太阁最新面经算法竞赛1](http://hihocoder.com/contest/hihointerview6)
 | # | Title | Solution |
