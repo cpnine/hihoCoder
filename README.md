@@ -101,6 +101,13 @@ Solutions to problems on [hihocoder](http://hihocoder.com/hiho)
 |2|[回文字符串](http://hihocoder.com/problemset/problem/1323) |[2](solutions/1323)| 
 |3|[希尔伯特曲线](http://hihocoder.com/problemset/problem/1324) |[3](solutions/1324)| 
 
+## [hihoCoder太阁最新面经算法竞赛5](http://hihocoder.com/contest/hihointerview10)
+| # | Title | Solution |
+|---|-------|----------|
+|1|[有序01字符串](http://hihocoder.com/contest/hihointerview10/problem/1) |[1](solutions/hiho0501)| 
+|2|[分隔相同字符](http://hihocoder.com/contest/hihointerview10/problem/2) |[2](solutions/hiho0502)| 
+|3|[逃离迷宫](http://hihocoder.com/contest/hihointerview10/problem/3) |[3](solutions/hiho0503)| 
+
 ## [hihoCoder太阁最新面经算法竞赛6](http://hihocoder.com/contest/hihointerview11)
 | # | Title | Solution |
 |---|-------|----------|
